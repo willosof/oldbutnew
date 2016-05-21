@@ -1,0 +1,26 @@
+{
+  "name": "oldbutnew",
+  "version": "1.0.0",
+  "description": "Old But New Issue Tracking - OBNIT?!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willosof/oldbutnew.git"
+  },
+  "keywords": [
+    "oldbutnew",
+    "issue",
+    "tracking",
+    "obn",
+    "obnit"
+  ],
+  "author": "William Viker <william.viker@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willosof/oldbutnew/issues"
+  },
+  "homepage": "https://github.com/willosof/oldbutnew#readme"
+}
